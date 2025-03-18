@@ -1,0 +1,25 @@
+{
+    "Sonido": {
+        "Sonar_Check": 1,
+        "Repetir_Check": 0,
+        "Sonido_Radio": "Default",
+        "Sonido_Ruta": ""
+    },
+    "Mensaje": {
+        "Mensaje_Check": 1,
+        "Mensaje_Radio": "Default",
+        "Titulo_Entry": "",
+        "Mensaje_Entry": ""
+    },
+    "Abrir": {
+        "Abrir_Check": 0,
+        "Archivo_Ruta": ""
+    },
+    "Mostrar": {
+        "Hora_Check": 1,
+        "Minutos_Check": 1,
+        "Segundos_Check": 1
+    },
+    "Formato_Radio": "Corta",
+    "Tema_Radio": "Oscuro"
+}
